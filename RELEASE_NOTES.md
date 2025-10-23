@@ -14,4 +14,8 @@ Created 6 atomic commits.
 
 Ressolved merge conflict in zine folder.
 
+<<<<<<< HEAD
 Created tags to indicate the current version.                                              
+=======
+Created tags to indicate the current version.
+>>>>>>> 397604e8d3f8d8b369e028fb94fdb8dbe11dec55
