@@ -5,4 +5,5 @@ My .gitignore exludes log files, a few macOS system files, as well as temporary 
 
 Branches
 author/idea-sprint is used for the author to test ideas and plan new features
+
 editor/review is used to edit and review changes before merging into the main branch
