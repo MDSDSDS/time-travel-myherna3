@@ -1,0 +1,15 @@
+#Logs
+*.log
+*.sql
+*.sqlite
+
+#OS Files
+*.DS_Store?
+Icon?
+*.DS_Store
+
+#Temp files
+*.tmp
+*.temp
+
+
